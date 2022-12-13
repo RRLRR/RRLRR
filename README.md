@@ -6,7 +6,7 @@ Welcome My Profile, I'm `𝙳𝚊𝚟𝚒𝚍 𝚁. | 𝙿𝚁𝙾 𓅃`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/K666666" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="rrlrr" height="45" /></a>
+<a href="https://t.me/K666666" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="rrlrr" height="45" /></a>
 </p>
 
 <h2 align="left">Languages : </h2>
